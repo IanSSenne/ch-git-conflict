@@ -1,5 +1,5 @@
 # ch-git-conflict
 
-git conflict testing
+## This is a subheading created locally
 
-remote changes
+All of this content added to the readme file has been added from my local Git repository.
